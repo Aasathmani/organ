@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "81875359679",
+    "firebase_url": "https://thirumalai-4700c-default-rtdb.firebaseio.com",
+    "project_id": "thirumalai-4700c",
+    "storage_bucket": "thirumalai-4700c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81875359679:android:3ab7656444b2b18e1db30a",
+        "android_client_info": {
+          "package_name": "com.organmanage.thirumalai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81875359679-non87j2hbah2q0k5fiaca1c16jvv7tj1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATFAq4H45SERG7vSSxdVeG0vUQx4RgdB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81875359679-non87j2hbah2q0k5fiaca1c16jvv7tj1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
